@@ -1,5 +1,6 @@
 # ifam-workshop-git
 
+
 aula de github turma 2
 
 
@@ -11,5 +12,5 @@ aula de github turma 2
 - Rodrigo Lima de Souza
 
 - Jade Andreina Menezes dos Santos
+- Natália de Sousa Rufino
 - Luan Pinheiro
-
