@@ -1,4 +1,4 @@
 git add .
-git commit -m "rename: add() -> add_two()"
+git commit -m "edit: sub.py & test_sub.py"
 git push -u origin main
 git status
