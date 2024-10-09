@@ -3,6 +3,9 @@
 aula de github turma 2
 
 - Antônio Carlos Andrade do Nascimento Junior
-- Armando Neto
+- Armando de Oliveira Gonçalves Neto
 - Rodrigo Lima de Souza
-- Clicia Maria Silva
+- clicia Maria 
+- Jade Andreina Menezes dos Santos
+- Luan Pinheiro
+
