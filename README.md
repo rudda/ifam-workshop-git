@@ -2,4 +2,12 @@
 
 aula de github turma 2
 
-Armando de Oliveira Gonçalves Neto
+
+
+
+
+
+- Antônio Carlos Andrade do Nascimento Junior
+- Armando de Oliveira Gonçalves Neto
+- Rodrigo Lima de Souza
+
