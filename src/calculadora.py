@@ -1,6 +1,7 @@
-n = int(input('Informe um número inteiro: '))
+def parimpar(n):
+    if n % 2 == 0:
+        return f'{n} é par'
+    else:
+        return f'{n} é impar'
 
-if (n % 2) == 0:
-    print('par')
-else:
-    print('ímpar')
+print(parimpar(10))
