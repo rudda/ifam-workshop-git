@@ -1,4 +1,5 @@
 import unittest
+from features.div import div
 
 class TestDivFunction(unittest.TestCase):
     

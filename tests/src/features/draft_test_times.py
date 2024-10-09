@@ -1,4 +1,5 @@
 import unittest
+from features.times import times
 
 class TestTimesFunction(unittest.TestCase):
     
