@@ -12,6 +12,7 @@ def calculadora():
     operador = input("Digite o operador (+, -, *, /): ")
     num2 = float(input("Digite o segundo número: "))
     
+    
     if operador == "+":
         add(num1, num2)
         print(f"Resultado: {add(num1, num2)}")
