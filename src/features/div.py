@@ -8,4 +8,6 @@ def div(a, b):
     :param b: Segundo número
     :return: A soma de a e b
     """
+    if b == 0:
+        return None
     return a / b
