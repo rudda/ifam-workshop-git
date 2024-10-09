@@ -12,7 +12,7 @@ def calculadora():
     operador = input("Digite o operador (+, -, *, /): ")
     num2 = float(input("Digite o segundo número: "))
     
-    
+
     if operador == "+":
         add(num1, num2)
         print(f"Resultado: {add(num1, num2)}")
@@ -22,8 +22,5 @@ def calculadora():
         times(num1, num2)
         print(f"Resultado: {num1 * num2}")
     if operador == "/":
-        if num2 == 0:
-            print("Não é possível dividir por zero.")
-        else:
             div(num1, num2)
             print(f"Resultado: {div(num1, num2)}")
