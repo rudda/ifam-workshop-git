@@ -1,6 +1,5 @@
-def div(a, b):
-    
+def div (a, b):
     if b == 0:
-        return "Divisão por zero"
+        return None
     else:
-        return a/b
+        return a / b
