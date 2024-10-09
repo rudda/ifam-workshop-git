@@ -1,6 +1,6 @@
 # src/features/sub.py
 
-def div(a, b):
+def sub(a, b):
     """
     Função para subtraçao dois números.
     
@@ -8,4 +8,4 @@ def div(a, b):
     :param b: Segundo número
     :return: A subtração de a e b
     """
-    return a / b
+    return a - b
