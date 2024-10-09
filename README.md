@@ -3,6 +3,9 @@
 aula de github turma 2
 
 
+- Alexsander Renê Ferreira de Oliveira
+
+
 
 
 
@@ -12,4 +15,5 @@ aula de github turma 2
 
 - Jade Andreina Menezes dos Santos
 - Luan Pinheiro
+
 
