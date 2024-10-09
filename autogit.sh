@@ -1,4 +1,4 @@
 git add .
-git commit -m "add: tests 'div' OK | all tests running!"
+git commit -m "problems: #03 done"
 git push -u origin HEAD
 git status
