@@ -1,5 +1,5 @@
-def div(a,b):
-    if b==0:
-        print('não  divide por 0')
+def div (a, b):
+    if b == 0:
+        return None
     else:
-        return a/b
+        return a / b
