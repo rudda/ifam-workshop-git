@@ -1,12 +1,12 @@
 # src/features/add.py
 
-def add(a, b):
+def add_two(a, b):
     return a + b
 
 def add_three(a, b, c):
     return a + b + c
 
-def add_multiple_elements(a, b, c, d, e=None):
+def add_multiple_elements(a, b, c, d, e = None):
     if e is not None:
         return a + b + c + d + e
     else:
