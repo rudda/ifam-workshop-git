@@ -1,3 +1,7 @@
 # ifam-workshop-git
+
 aula de github turma 2
-Alexsander Renê Ferreira de Oliveira
+
+- Antônio Carlos Andrade do Nascimento Junior
+- Armando Neto
+- Alexsander Renê Ferreira de Oliveira
