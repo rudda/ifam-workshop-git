@@ -1,2 +1,7 @@
 # ifam-workshop-git
-aula de github turma 2
+
+---
+
+Aula de github turma 2
+
+* Ademar Alves Castro Filho
