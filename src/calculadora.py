@@ -1,3 +1,4 @@
-def multi(a,b): 
-    return a*b
-print()
+a = 5
+b = 3
+resultado = a * b
+print(resultado)  
