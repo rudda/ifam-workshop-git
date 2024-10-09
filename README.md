@@ -11,3 +11,5 @@ aula de github turma 2
 - Armando de Oliveira Gonçalves Neto
 - Rodrigo Lima de Souza
 
+- Jade Andreina Menezes dos Santos
+
