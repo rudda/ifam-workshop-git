@@ -11,6 +11,6 @@ def div(a, b):
     if (b!=0):
         res = a/b
     else:
-        res = "Impossível dividir por 0"
+        res = None
 
     return res
