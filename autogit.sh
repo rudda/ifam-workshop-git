@@ -1,4 +1,4 @@
 git add .
-git commit -m "add: methods calc"
+git commit -m "done: tests OK"
 git push -u origin main
 git status
