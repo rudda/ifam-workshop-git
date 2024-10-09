@@ -1,3 +1,8 @@
 # ifam-workshop-git
+
 aula de github turma 2
-# Clicia Maria Silva
+
+- Antônio Carlos Andrade do Nascimento Junior
+- Armando Neto
+- Rodrigo Lima de Souza
+- Clicia Maria Silva
