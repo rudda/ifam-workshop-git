@@ -1,4 +1,4 @@
 git add .
-git commit -m "alt: 'cvmds' principal branch"
+git commit -m "add: tests 'time' OK"
 git push -u origin HEAD
 git status

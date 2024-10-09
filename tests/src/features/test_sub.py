@@ -33,7 +33,7 @@ class TestSubFunction(unittest.TestCase):
     def test_sub_multiple_integers(self):
         self.assertEqual(sub_multiple_integers(10, 2, 3), 5)  # 10 - 2 - 3 = 5
         self.assertEqual(sub_multiple_integers(50, 20, 10, 5), 15)  # 50 - 20 - 10 - 5 = 15
-        self.assertEqual(sub_multiple_integers(-10, -5, 5), 0)  # -10 - (-5) - 5 = 0
+        self.assertEqual(sub_multiple_integers(-10, -5, 5), -10)  # -10 - (-5) - 5 = -10
 
     # Testa a subtração com números float e inteiros misturados
     def test_sub_mixed_types(self):
