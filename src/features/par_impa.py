@@ -1,6 +1,6 @@
 def par_ou_impar():
     try:
-        n = float(input("Digite um número inteiro: "))  # Captura a entrada do usuário como float
+        n = float(input("Digite um número: "))  # Captura a entrada do usuário como float
         
         # Verifica se o número é inteiro
         if n.is_integer():
