@@ -1,6 +1,6 @@
 # tests/src/features/test_add.py
 import unittest
-from src.features.add import add
+from features.add import add
 
 class TestAdd(unittest.TestCase):
     def test_add_positive_numbers(self):
