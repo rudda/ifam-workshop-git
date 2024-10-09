@@ -1,5 +1,10 @@
 # ifam-workshop-git
+
 aula de github turma 2
 
-Rodrigo Lima de Souza
-r
+
+
+
+- Antônio Carlos Andrade do Nascimento Junior
+- Armando Neto
+- Rodrigo Lima de Souza
